@@ -133,7 +133,7 @@ Congratulations on winning!
 
 ## Author
 
-Dhinesh G G
+Dhinesh G
 
 ---
 
